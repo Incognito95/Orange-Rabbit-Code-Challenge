@@ -1,0 +1,62 @@
+body {
+    background-image: url("./images/background-image.png");
+    background-size: cover;
+}
+
+.container {
+    margin-top: 126px;
+}
+
+.card-body {
+    border-radius: 1px;
+}
+
+
+h5 {
+    margin-top: 55px;
+    font-size: 12px;
+}
+
+h3 {
+    margin-top: 14px;
+    font-size: 22px;
+}
+
+.table {
+    margin-top: 30px;
+}
+
+.left-image {
+    background-image: url("./images/form-image.png");
+    margin-right: -30px;
+    height: 70vh;
+    background-size: cover;
+}
+
+hr {
+    border-style: dotted;
+}
+
+.btn,
+.btn:hover {
+    background-color: #FF6B00;
+    border: none;
+    border-radius: 30px;
+    padding: 20px 34px;
+    width: 255px;
+}
+
+.submit-btn {
+    background-color: #FF6B00;
+    border: none;
+    color: white;
+    padding: 8px;
+}
+
+.confirmation-card {
+    height: 400px;
+}
+
+.checkbox {
+    margin-top: 56px;
+}
